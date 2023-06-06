@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7oHRKAfk+Ymvate82/O4Gwbut623HLU7nvY+D5RYQlFT7dWPwdV5njiP538f+6l6PoLm2xyvaD6aIdXZNQSvrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\ООАиД\\Курсовая\\team-1111\\Our Messanger2.0\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\devexpressmvvm\\22.1.3\\devexpressmvvm.22.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\App.g.cs
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\Client_MarkupCompile.cache
+C:\Users\glf12\source\repos\team-1111\Our Messanger2.0\Client\obj\Release\net6.0-windows\Client_MarkupCompile.lref
